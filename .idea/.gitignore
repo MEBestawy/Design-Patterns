@@ -3,3 +3,6 @@
 /workspace.xml
 
 .DS_Store
+.idea/
+/out/
+Design_Patterns_With_Kotlin.iml
