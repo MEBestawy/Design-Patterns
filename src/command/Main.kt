@@ -1,5 +1,9 @@
 package command
 
+/**
+ * Here we test how our commands work by adding them to an executor
+ * and executing them all.
+ */
 fun main() {
     var executor = Executor()
     var balloon = Balloon()
