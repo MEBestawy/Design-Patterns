@@ -1,5 +1,12 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-
+/kotlinc.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+.gitignore
+../Design_Patterns_With_Kotlin.iml
+../out
+../out/*
 .DS_Store
