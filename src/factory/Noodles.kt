@@ -1,7 +1,7 @@
 package factory
 
 /**
- * Objects of this class represent noodles
+ * Objects of this class are noodles and inherit from food
  */
 class Noodles(override var calories: Int = 140) : Food() {
     override fun toString(): String {
